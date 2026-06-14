@@ -71,6 +71,8 @@ Kerala, India
 
 📧 [nandhithabinu2020@gmail.com](mailto:nandhithabinu2020@gmail.com)
 
+💼 LinkedIn: [Nandhitha Binu](https://www.linkedin.com/in/nandhitha-binu-94a161250/)
+
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
 
 *"Keep learning. Keep building. Keep automating."*
