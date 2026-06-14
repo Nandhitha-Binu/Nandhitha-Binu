@@ -34,27 +34,27 @@ I'm passionate about building reliable systems, automating repetitive tasks, and
 
 ## 🛠️ Working With
 
-**Cloud:** AWS
+Cloud: AWS (EC2, IAM, VPC, Lambda, Auto Scaling, Application Load Balancer)
 
-**Automation:** Ansible, Terraform
+Automation: Ansible (Playbooks, Roles, Jinja2), Terraform
 
-**CI/CD:** Jenkins, GitHub
+CI/CD: Jenkins, GitHub Webhooks, Maven
 
-**Containers:** Docker, Docker Compose
+Containers: Docker, Docker Compose
 
-**Linux:** RHEL, Shell Scripting
+Linux: RHEL 9, Shell Scripting, SSH, SELinux, Firewalld
 
-**Web Technologies:** Apache, Nginx
+Web & Databases: Apache, Nginx, WordPress, MariaDB, phpMyAdmin
 
-**Monitoring:** Prometheus, Grafana, CloudWatch
+Monitoring: Prometheus, Grafana, AWS CloudWatch
 
 ---
 
 ## 🚀 What You'll Find Here
 
 * Infrastructure automation projects
-* Cloud deployment experiments
-* DevOps learning tasks
+* Cloud deployment solutions
+* DevOps learning experiments
 * CI/CD and containerization practices
 
 ---
