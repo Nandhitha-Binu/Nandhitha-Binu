@@ -54,8 +54,7 @@ I'm passionate about building reliable systems, automating repetitive tasks, and
 
 * Infrastructure automation projects
 * Cloud deployment experiments
-* Linux administration labs
-* DevOps learning projects
+* DevOps learning tasks
 * CI/CD and containerization practices
 
 ---
