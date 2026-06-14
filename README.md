@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hello, I'm Nandhitha
 
-<!--
-**Nandhitha-Binu/Nandhitha-Binu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud • DevOps • Linux
 
-Here are some ideas to get you started:
+I'm passionate about building reliable systems, automating repetitive tasks, and exploring cloud technologies that make infrastructure scalable, secure, and efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Exploring
+
+* Cloud Infrastructure & Architecture
+* Infrastructure Automation
+* CI/CD Practices
+* Container Technologies
+* Linux System Administration
+
+---
+
+## ⚡ Areas of Interest
+
+☁️ Cloud Computing
+
+🔧 DevOps & Automation
+
+🐧 Linux Administration
+
+📦 Containerization
+
+📈 Monitoring & Observability
+
+🔒 Infrastructure Security
+
+---
+
+## 🛠️ Working With
+
+**Cloud:** AWS
+
+**Automation:** Ansible, Terraform
+
+**CI/CD:** Jenkins, GitHub
+
+**Containers:** Docker, Docker Compose
+
+**Linux:** RHEL, Shell Scripting
+
+**Web Technologies:** Apache, Nginx
+
+**Monitoring:** Prometheus, Grafana, CloudWatch
+
+---
+
+## 🚀 What You'll Find Here
+
+* Infrastructure automation projects
+* Cloud deployment experiments
+* Linux administration labs
+* DevOps learning projects
+* CI/CD and containerization practices
+
+---
+
+## 🎯 Mission
+
+To continuously learn, build, automate, and contribute while growing into a skilled Cloud & DevOps Engineer.
+
+---
+
+### 📫 Let's Connect
+
+Kerala, India
+
+📧 [nandhithabinu2020@gmail.com](mailto:nandhithabinu2020@gmail.com)
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+
+*"Keep learning. Keep building. Keep automating."*
