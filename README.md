@@ -77,7 +77,7 @@ To continuously learn, build, automate, and contribute while growing into a skil
 
 🌐 Portfolio: https://nandhitha-portfolio.vercel.app/
 
-💼 LinkedIn: https://www.linkedin.com/in/nandhitha-binu-94a161250/
+💼 LinkedIn: https://www.linkedin.com/in/nandhitha-binu
 
 📧 Email: nandhithabinu2020@gmail.com
 
