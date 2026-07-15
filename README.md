@@ -6,6 +6,14 @@ I'm passionate about building reliable systems, automating repetitive tasks, and
 
 ---
 
+## 🌐 Portfolio
+
+🚀 **Live Portfolio:** https://nandhitha-portfolio.vercel.app/
+
+Explore my projects, skills, certifications, and resume in one place.
+
+---
+
 ## 🌱 Currently Exploring
 
 * Cloud Infrastructure & Architecture
@@ -67,9 +75,11 @@ To continuously learn, build, automate, and contribute while growing into a skil
 
 ### 📫 Let's Connect
 
-Kerala, India
+🌐 Portfolio: https://nandhitha-portfolio.vercel.app/
 
-📧 Mail: [nandhithabinu2020@gmail.com](mailto:nandhithabinu2020@gmail.com)   | 💼 LinkedIn: [Nandhitha Binu](https://www.linkedin.com/in/nandhitha-binu-94a161250/)
+💼 LinkedIn: https://www.linkedin.com/in/nandhitha-binu-94a161250/
+
+📧 Email: nandhithabinu2020@gmail.com
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
 
